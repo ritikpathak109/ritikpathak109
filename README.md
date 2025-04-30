@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikpathak109&label=Profile%20views&color=0e75b6&style=flat" alt="ritikpathak109" /> </p>
 
-- 🔭 I’m currently working on **HealCare Project**
+- 🔭 I’m currently working on **HealthCare Project named as HealthEase**
 
-- 🌱 I’m currently learning **Angular, .NET**
+- 🌱 I’m currently learning **Angular, .NET, SQL Server**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ritikpathak109](https://github.com/ritikpathak109)
 
