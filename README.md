@@ -1,3 +1,6 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ritik+Pathak;Full+Stack+Developer+%7C+.NET%2C+Angular%2C+SQL+Server" alt="Typing SVG" />
+</h1>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ritikpathak17/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ritikpathak109@gmail.com) 
