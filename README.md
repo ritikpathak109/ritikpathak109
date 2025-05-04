@@ -34,7 +34,33 @@ Explore my comprehensive background, skills, and experience in my detailed resum
 
 **Programming Languages:**
 
-C#, TypeScript
+<table border=0>
+  <tr>
+    <td valign="top">
+      <ul style="list-style-type: none; padding-left: 0;">
+        <li><img src="https://unpkg.com/simple-icons@latest/icons/csharp.svg" alt="C#" width=20 height=20 style="margin-right: 5px;"/> C#</li>
+        <li><img src="https://unpkg.com/simple-icons@latest/icons/typescript.svg" alt="TypeScript" width=20 height=20 style="margin-right: 5px;"/> TypeScript</li>
+        <li><img src="https://unpkg.com/simple-icons@latest/icons/javascript.svg" alt="JavaScript" width=20 height=20 style="margin-right: 5px;"/> JavaScript</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <ul style="list-style-type: none; padding-left: 0;">
+        <li><img src="https://unpkg.com/simple-icons@latest/icons/html5.svg" alt="HTML" width=20 height=20 style="margin-right: 5px;"/> HTML</li>
+        <li><img src="https://unpkg.com/simple-icons@latest/icons/css3.svg" alt="CSS" width=20 height=20 style="margin-right: 5px;"/> CSS</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+      <br/>
+      **Most Used Languages:**
+      <p>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikpathak109&layout=compact" alt="Most Used Languages" />
+      </p>
+    </td>
+  </tr>
+</table>
+
 **Frontend Development:**
 
 HTML, CSS, Angular, Bootstrap
@@ -57,7 +83,6 @@ Problem Solving, Teamwork, Leadership
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ritikpathak109&theme=radical)
 
 ## 🤝 Let's Connect!
 
