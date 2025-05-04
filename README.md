@@ -32,34 +32,29 @@ Explore my comprehensive background, skills, and experience in my detailed resum
 
 ## 🛠️ Technologies & Skills
 
-**Programming Languages:**
+### Programming Languages:
 
-<table border=0>
+<table border=0 style="border-collapse: separate; border-spacing: 15px;">
   <tr>
-    <td valign="top">
-      <ul style="list-style-type: none; padding-left: 0;">
-        <li><img src="https://unpkg.com/simple-icons@latest/icons/csharp.svg" alt="C#" width=20 height=20 style="margin-right: 5px;"/> C#</li>
-        <li><img src="https://unpkg.com/simple-icons@latest/icons/typescript.svg" alt="TypeScript" width=20 height=20 style="margin-right: 5px;"/> TypeScript</li>
-        <li><img src="https://unpkg.com/simple-icons@latest/icons/javascript.svg" alt="JavaScript" width=20 height=20 style="margin-right: 5px;"/> JavaScript</li>
-      </ul>
-    </td>
-    <td valign="top">
-      <ul style="list-style-type: none; padding-left: 0;">
-        <li><img src="https://unpkg.com/simple-icons@latest/icons/html5.svg" alt="HTML" width=20 height=20 style="margin-right: 5px;"/> HTML</li>
-        <li><img src="https://unpkg.com/simple-icons@latest/icons/css3.svg" alt="CSS" width=20 height=20 style="margin-right: 5px;"/> CSS</li>
-      </ul>
-    </td>
+    <td><img src="https://unpkg.com/simple-icons@latest/icons/csharp.svg" alt="C#" width=30 height=30 style="margin-right: 10px; border-radius: 8px; background-color: #68217a; padding: 5px; color: #fff;" valign="middle"> <span style="font-size: 1.1em; font-weight: 500;">C#</span></td>
+    <td><img src="https://unpkg.com/simple-icons@latest/icons/typescript.svg" alt="TypeScript" width=30 height=30 style="margin-right: 10px; border-radius: 8px; background-color: #007acc; padding: 5px; color: #fff;" valign="middle"> <span style="font-size: 1.1em; font-weight: 500;">TypeScript</span></td>
+    <td><img src="https://unpkg.com/simple-icons@latest/icons/javascript.svg" alt="JavaScript" width=30 height=30 style="margin-right: 10px; border-radius: 8px; background-color: #f7df1e; padding: 5px; color: #000;" valign="middle"> <span style="font-size: 1.1em; font-weight: 500;">JavaScript</span></td>
   </tr>
   <tr>
-    <td colspan=2>
-      <br/>
-      **Most Used Languages:**
-      <p>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikpathak109&layout=compact" alt="Most Used Languages" />
-      </p>
-    </td>
+    <td><img src="https://unpkg.com/simple-icons@latest/icons/html5.svg" alt="HTML" width=30 height=30 style="margin-right: 10px; border-radius: 8px; background-color: #e34c26; padding: 5px; color: #fff;" valign="middle"> <span style="font-size: 1.1em; font-weight: 500;">HTML</span></td>
+    <td><img src="https://unpkg.com/simple-icons@latest/icons/css3.svg" alt="CSS" width=30 height=30 style="margin-right: 10px; border-radius: 8px; background-color: #2965f1; padding: 5px; color: #fff;" valign="middle"> <span style="font-size: 1.1em; font-weight: 500;">CSS</span></td>
+    <td></td>
   </tr>
 </table>
+
+<br/>
+<div style="border-radius: 10px; padding: 15px; background-color: #f0f0f0;">
+  <h4 style="font-size: 1.15em; font-weight: 600; color: #1a202c;">Most Used Languages:</h4>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikpathak109&layout=compact" alt="Most Used Languages" />
+  </p>
+</div>
+
 
 **Frontend Development:**
 
