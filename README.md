@@ -27,9 +27,15 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ritikpathak109&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ritikpathak109&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikpathak109&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ritikpathak109&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ritikpathak109&theme=dark&hide_border=false" alt="GitHub Streak" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikpathak109&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
