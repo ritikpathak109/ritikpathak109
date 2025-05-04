@@ -1,20 +1,100 @@
-<h1>Hi 👋, I'm Ritik Pathak</h1>
-<p>Full Stack Developer | Proficient in .NET, Angular, and SQL Server</p>
-<p>📄 Know about my experiences (https://drive.google.com/file/d/1lukBY3OUBT7FggL6Dj3tPsg0MGFrcWIH/view?usp=sharing)</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
-<a target="_blank" href="https://angular.io/assets/images/logos/angular/angular.svg" style="display: inline-block;"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="display: inline-block;"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/ritikpathak17/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ritikpathak109&show_icons=true&locale=en" alt="ritikpathak109" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikpathak109&" alt="ritikpathak109" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ritikpathak109&show_icons=true&locale=en&layout=compact" alt="ritikpathak109" /></p>
+<div align="center">
+
+<h1>Hi there! 👋 I'm Ritik Pathak</h1>
+
+<p align="center">
+  A passionate Full Stack Developer | Proficient in .NET, Angular, and SQL Server | Based in New Delhi, India
+</p>
+
+<a href="https://github.com/ritikpathak109">
+  <img src="https://img.shields.io/badge/GitHub-ritikpathak109-informational?style=flat-square&logo=github&color=black" alt="GitHub Profile">
+</a>
+<a href="https://www.linkedin.com/in/ritikpathak17/">
+  <img src="https://img.shields.io/badge/LinkedIn-ritikpathak17-informational?style=flat-square&logo=linkedin&color=%230077B5" alt="LinkedIn Profile">
+</a>
+</div>
+
+---
+
+### 🚀 About Me
+
+* I'm currently working as a Full Stack Developer, proficient in .NET, Angular, and SQL Server.
+* I'm passionate about building robust and scalable web applications.
+* I'm also keen on designing and implementing efficient and secure RESTful APIs.
+* I strive to optimize relational databases for performance and data integrity.
+* I'm always learning and exploring new technologies and best practices in full-stack development, while regularly revisiting and reinforcing my understanding of existing technologies like .NET, Angular, and SQL Server.
+* I'm open to collaboration on interesting projects – feel free to reach out!
+
+### Ready to Dive Deeper? 🚀
+
+Explore my comprehensive background, skills, and experience in my detailed resume.
+
+[![Google Drive](https://img.shields.io/badge/View%20My-Resume-informational?style=for-the-badge&logo=googledrive&color=%23007ACC)](https://drive.google.com/file/d/1lukBY3OUBT7FggL6Dj3tPsg0MGFrcWIH/view?usp=sharing)
+
+### 🛠️ Technologies & Skills
+
+**Programming Languages:**
+C#, TypeScript
+
+
+**Frontend Development:**
+HTML, CSS, Angular, Bootstrap
+
+
+**Frameworks:**
+.NET
+
+
+**Databases:**
+MySQL, SQL Server
+
+
+**Tools & Technologies:**
+VS Code, Visual Studio 2022, Linux, Git
+
+
+**Other Skills:**
+Problem Solving, Teamwork, Leadership
+
+
+### 🌱 Currently Learning
+
+* Continuously exploring new technologies and best practices in full-stack development.
+* Regularly revisiting and reinforcing my understanding of existing technologies like .NET, Angular, and SQL Server.
+
+### 🔭 My Projects
+
+1.  **[Project Title 1]**
+    * [Brief description of the project (1-2 sentences)]
+    * **Technologies:** `[List technologies used]`
+    * [![GitHub Stars](https://img.shields.io/github/stars/ritikpathak109/[Repo Name 1])](https://github.com/ritikpathak109/[Repo Name 1]) [![GitHub Forks](https://img.shields.io/github/forks/ritikpathak109/[Repo Name 1])](https://github.com/ritikpathak109/[Repo Name 1])
+    * [Link to live demo or more information if applicable]
+
+2.  **[Project Title 2]**
+    * [Brief description of the project (1-2 sentences)]
+    * **Technologies:** `[List technologies used]`
+    * [![GitHub Stars](https://img.shields.io/github/stars/ritikpathak109/[Repo Name 2])](https://github.com/ritikpathak109/[Repo Name 2]) [![GitHub Forks](https://img.shields.io/github/forks/ritikpathak109/[Repo Name 2])](https://github.com/ritikpathak109/[Repo Name 2])
+    * [Link to live demo or more information if applicable]
+
+    [Link to more of your repositories](https://github.com/ritikpathak109?tab=repositories)
+
+### 📊 GitHub Stats
+
+!Your GitHub Stats
+
+
+!GitHub Streak
+
+
+!Top Langs
+
+
+### 🤝 Let's Connect!
+
+<p align="left">
+<a href="https://www.linkedin.com/in/ritikpathak17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedIn.svg" alt="Ritik Pathak" height="30" width="40" /></a>
+</p>
+
+---
+
+✨ Feel free to explore my repositories and don't hesitate to connect! Happy coding! ✨
