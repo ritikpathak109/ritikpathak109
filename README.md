@@ -36,39 +36,59 @@ Explore my comprehensive background, skills, and experience in my detailed resum
 
 <table border=0 style="border-collapse: separate; border-spacing: 15px;">
   <tr>
-    <td><img src="https://unpkg.com/simple-icons@latest/icons/csharp.svg" alt="C#" width=30 height=30 style="margin-right: 10px; border-radius: 8px; background-color: #68217a; padding: 5px; color: #fff;" valign="middle"> <span style="font-size: 1.1em; font-weight: 500;">C#</span></td>
-    <td><img src="https://unpkg.com/simple-icons@latest/icons/typescript.svg" alt="TypeScript" width=30 height=30 style="margin-right: 10px; border-radius: 8px; background-color: #007acc; padding: 5px; color: #fff;" valign="middle"> <span style="font-size: 1.1em; font-weight: 500;">TypeScript</span></td>
-    <td><img src="https://unpkg.com/simple-icons@latest/icons/javascript.svg" alt="JavaScript" width=30 height=30 style="margin-right: 10px; border-radius: 8px; background-color: #f7df1e; padding: 5px; color: #000;" valign="middle"> <span style="font-size: 1.1em; font-weight: 500;">JavaScript</span></td>
+    <td align="center">
+      <img src="https://unpkg.com/simple-icons@latest/icons/csharp.svg" alt="C#" width=36 height=36 style="border-radius: 10px; background-color: #68217a; padding: 6px; color: #fff;" valign="middle">
+      <br>
+      <span style="font-size: 1.2em; font-weight: 600;">C#</span>
+    </td>
+    <td align="center">
+      <img src="https://unpkg.com/simple-icons@latest/icons/typescript.svg" alt="TypeScript" width=36 height=36 style="border-radius: 10px; background-color: #007acc; padding: 6px; color: #fff;" valign="middle">
+      <br>
+      <span style="font-size: 1.2em; font-weight: 600;">TypeScript</span>
+    </td>
+    <td align="center">
+      <img src="https://unpkg.com/simple-icons@latest/icons/javascript.svg" alt="JavaScript" width=36 height=36 style="border-radius: 10px; background-color: #f7df1e; padding: 6px; color: #000;" valign="middle">
+      <br>
+      <span style="font-size: 1.2em; font-weight: 600;">JavaScript</span>
+    </td>
   </tr>
   <tr>
-    <td><img src="https://unpkg.com/simple-icons@latest/icons/html5.svg" alt="HTML" width=30 height=30 style="margin-right: 10px; border-radius: 8px; background-color: #e34c26; padding: 5px; color: #fff;" valign="middle"> <span style="font-size: 1.1em; font-weight: 500;">HTML</span></td>
-    <td><img src="https://unpkg.com/simple-icons@latest/icons/css3.svg" alt="CSS" width=30 height=30 style="margin-right: 10px; border-radius: 8px; background-color: #2965f1; padding: 5px; color: #fff;" valign="middle"> <span style="font-size: 1.1em; font-weight: 500;">CSS</span></td>
+    <td align="center">
+      <img src="https://unpkg.com/simple-icons@latest/icons/html5.svg" alt="HTML" width=36 height=36 style="border-radius: 10px; background-color: #e34c26; padding: 6px; color: #fff;" valign="middle">
+      <br>
+      <span style="font-size: 1.2em; font-weight: 600;">HTML</span>
+    </td>
+    <td align="center">
+      <img src="https://unpkg.com/simple-icons@latest/icons/css3.svg" alt="CSS" width=36 height=36 style="border-radius: 10px; background-color: #2965f1; padding: 6px; color: #fff;" valign="middle">
+      <br>
+      <span style="font-size: 1.2em; font-weight: 600;">CSS</span>
+    </td>
     <td></td>
   </tr>
 </table>
 
 <br/>
-<div style="border-radius: 10px; padding: 15px; background-color: #f0f0f0;">
-  <h4 style="font-size: 1.15em; font-weight: 600; color: #1a202c;">Most Used Languages:</h4>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikpathak109&layout=compact" alt="Most Used Languages" />
-  </p>
+<div style="border-radius: 12px; padding: 20px; background-color: #f0f0f0; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <h4 style="font-size: 1.25em; font-weight: 700; color: #2d3748; margin-bottom: 15px;">Most Used Languages:</h4>
+  <div style="text-align:center;">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikpathak109&layout=compact" alt="Most Used Languages" />
+  </div>
 </div>
 
-
-**Frontend Development:**
+<br/>
+### Frontend Development:
 
 HTML, CSS, Angular, Bootstrap
-**Frameworks:**
+### Frameworks:
 
 .NET
-**Databases:**
+### Databases:
 
 MySQL, SQL Server
-**Tools & Technologies:**
+### Tools & Technologies:
 
 VS Code, Visual Studio 2022, Linux, Git
-**Other Skills:**
+### Other Skills:
 
 Problem Solving, Teamwork, Leadership
 ## 🌱 Currently Learning
@@ -78,13 +98,4 @@ Problem Solving, Teamwork, Leadership
 
 ## 📊 GitHub Stats
 
-
-## 🤝 Let's Connect!
-
-<p align="left">
-<a href="https://www.linkedin.com/in/ritikpathak17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedIn.svg" alt="Ritik Pathak" height="30" width="40" /></a>
-</p>
-
----
-
-✨ Feel free to explore my repositories and don't hesitate to connect! Happy coding! ✨
+🤝 Let's Connect!
